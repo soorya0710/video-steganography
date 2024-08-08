@@ -1,0 +1,9 @@
+step 1 : open the cmd 
+
+step2: cd C:\Users\dot\OneDrive\Desktop\video_steganography
+
+step3: stero\scripts\activate
+
+step 4: python manage.py runserver
+
+5. copy url from prompt and render to browser.
